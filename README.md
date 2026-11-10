@@ -35,7 +35,6 @@ I've worked with teams including **Box UK**, **STAXO Group**, **Qobo Group**, an
 I'm interested in **IT, software engineering, and web development opportunities**, both in Zimbabwe and internationally. I enjoy collaborating on useful products and learning from other developers.
 
 - **LinkedIn:** [linkedin.com/in/gillmourtunhira](https://www.linkedin.com/in/gillmourtunhira/)
-- **Email:** [gillmourtunhira@gmail.com](mailto:gillmourtunhira@gmail.com)
 - **GitHub:** [@gillmourtunhira](https://github.com/gillmourtunhira)
 
 ---
