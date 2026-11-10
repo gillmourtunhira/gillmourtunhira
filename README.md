@@ -28,7 +28,6 @@ I've worked with teams including **Box UK**, **STAXO Group**, **Qobo Group**, an
 ## 🎓 Education & learning
 
 - **B.Tech (Honours) in Computer Science** — Harare Institute of Technology (Upper Second Class, 2.1)
-- **Certificate in Higher and Tertiary Education** — Harare Institute of Technology
 - **IBM SkillsBuild** — Cybersecurity & Artificial Intelligence learning *(in progress)*
 
 ## 🤝 Let's connect
